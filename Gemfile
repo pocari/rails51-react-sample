@@ -54,3 +54,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'webpacker', '~> 2.0'
+gem 'foreman', '~> 0.84'
